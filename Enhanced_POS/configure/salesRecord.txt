@@ -1,0 +1,451 @@
+The format of Sales Record:
+Operator VIP Price Discount Paid Refund
+Product1 amount, Product2 amount...
+
+
+
+
+Purchase:
+chunlin true 116.79999923706055 16.936004623413055 100 0.13600538635250814
+ID007 2,ID006 3,
+
+Purchase:
+chunlin false 382.3999996185303 101.61801325511931 300 19.218013636589035
+ID006 4,ID002 3,
+
+Purchase:
+zhulin false 6.400000095367432 0.9280002732276955 10 4.528000177860264
+ID003 2,ID001 2,
+
+Purchase:
+chunlin true 96.0 13.920003890991211 100 17.92000389099121
+ID008 1,ID004 3,
+
+Purchase:
+chunlin true 1206.6000003814697 328.8570416646004 900 22.25704128313066
+ID003 3,ID002 10,
+
+Purchase:
+yangjun false 300.0 107.62500911951065 300 107.62500911951065
+ID009 1,
+
+Purchase:
+yangjun true 182.0 26.39 200.8 45.19
+ID007 1,ID008 2,
+
+Purchase:
+yangjun true 311.2 109.25 202 0.05
+ID009 1,ID006 2,chunlin 14520.0 3967.5908 0.0 0.0
+basketball 121
+
+chunlin 1187.2 172.14404 0.0 0.0
+disk 212
+
+chunlin 1440.0 393.4801 0.0 0.0
+basketball 12
+
+Purchase:
+chunlin false 1479187.2 404102.38 2310321.0 1235236.1
+disk 12, basketball 12321, faceGel 12, 
+
+
+Purchase:
+chunlin false 120.0 17.400002 231.0 128.4
+tissue 12, 
+
+
+Purchase:
+chunlin false 20.0 1.0 193.0 174.0
+knife 1, 
+
+
+Purchase:
+chunlin false 2.2 0.11000013 3.0 0.9100001
+notebook 1, 
+
+
+Purchase:
+chunlin false 1.0 0.050000012 1.0 0.050000012
+pencil 1, 
+
+
+Purchase:
+chunlin false 1.0 0.050000012 2121.121 2120.1711
+pencil 1, 
+
+
+Purchase:
+chunlin false 12.0 0.6000004 123.0 111.6
+pencil 12, 
+
+
+Purchase:
+chunlin true 120.0 17.400002 103.0 0.40000153
+tissue 12, 
+
+
+Purchase:
+chunlin false 24.2 1.210001 1041.0 1018.01
+notebook 11, 
+
+
+Purchase:
+chunlin false 66.0 3.2999992 100.0 37.3
+curtain 1, 
+
+
+Purchase:
+chunlin true 99.0 14.355003 200.0 115.355
+pencil 99, 
+
+
+Purchase:
+chunlin true 100.0 31.599998 200.0 131.6
+pencil 100, 
+
+
+Purchase:
+chunlin false 300.0 129.0 1000.0 829.0
+ID009 1, 
+
+
+Purchase:
+chunlin false 300.0 129.0 10000.0 9829.0
+ID009 1, 
+
+
+Purchase:
+chunlin false 40.0 0.0 100.0 60.0
+ID010 2, 
+
+
+Purchase:
+chunlin false 396.0 79.19998 3564.0 3247.2
+ID008 6, 
+
+
+Purchase:
+chunlin false 2960.0 620.80005 3000.0 660.80005
+ID002 2, ID004 35, ID010 3, ID008 35, 
+
+
+Purchase:
+chunlin true 230.0 64.40001 200.0 34.40001
+ID004 23, 
+
+
+Purchase:
+chunlin false 22.4 0.0 100.0 77.6
+ID006 4, 
+
+
+Purchase:
+chunlin false 7011.0 1582.1997 10000.0 4571.1997
+ID007 120, ID003 5, ID009 3, ID010 5, 
+
+
+Purchase:
+chunlin false 430.4 129.28 1000.0 698.88
+ID002 3, ID003 2, ID008 1, 
+
+
+Purchase:
+chunlin false 2557.0 561.19995 2000.0 4.199951
+ID002 3, ID001 1, ID003 5, ID005 5, ID010 101, 
+
+
+Purchase:
+yangjun false 780.0 216.0 1000.0 436.0
+ID007 3, ID009 1, ID008 5, 
+
+
+Purchase:
+chunlin false 1306.0 501.2 10000.0 9195.2
+ID001 6, ID007 2, ID009 4, 
+
+
+Purchase:
+chunlin false 270.0 64.56001 10000.0 9794.56
+ID001 6, ID005 8, 
+
+
+Purchase:
+chunlin false 0.0 0.0 300.0 300.0
+
+
+
+Purchase:
+chunlin false 2273.0 761.19995 2000.0 488.19995
+ID007 5, ID005 5, ID006 5, ID009 5, ID008 5, 
+
+
+Purchase:
+chunlin false 3682.0 1336.3999 6000.0 3654.4
+ID003 10, ID009 10, ID008 10, 
+
+
+Purchase:
+yangjun false 622.6 124.51999 500.0 1.9200134
+ID001 11, ID007 11, ID006 11, 
+
+
+Purchase:
+chunlin false 3806.0 761.19995 4000.0 955.19995
+ID001 55, ID003 55, ID008 55, 
+
+
+Purchase:
+chunlin false 6627.6 2585.52 5000.0 957.9199
+ID006 21, ID004 21, ID009 21, 
+
+
+Purchase:
+chunlin false 323.2 64.639984 5000.0 4741.44
+ID001 101, ID003 101, 
+
+
+Purchase:
+chunlin false 2.0 0.0 25.0 23.0
+ID001 2, 
+
+
+Purchase:
+yangjun false 0.0 0.0 100.0 100.0
+
+
+
+Purchase:
+chunlin false 9966.0 1993.1997 20000.0 12027.199
+ID008 151, 
+
+
+Purchase:
+chunlin false 1808.7999 361.76 2000.0 552.9601
+ID006 323, 
+
+
+Purchase:
+chunlin false 576.8 115.359985 500.0 38.559998
+ID006 103, 
+
+
+Purchase:
+chunlin false 6726.6 1345.3198 6000.0 618.7197
+ID003 303, ID010 303, 
+
+
+Purchase:
+chunlin false 264.0 52.800003 3000.0 2788.8
+ID001 30, ID003 30, ID006 30, 
+
+
+Purchase:
+chunlin true 508.2 185.21521 3000.0 2677.0151
+ID001 105, ID002 2, ID006 2, ID004 2, ID008 2, 
+
+
+Purchase:
+chunlin false 465.0 159.6 600.0 294.6
+ID005 5, ID009 1, 
+
+
+Purchase:
+chunlin false 100.0 0.0 1000.0 900.0
+ID001 100, 
+
+
+Purchase:
+chunlin false 103.0 0.0 1000.0 897.0
+ID001 103, 
+
+
+Purchase:
+chunlin false 104.0 20.799995 100.0 16.799995
+ID001 104, 
+
+
+Purchase:
+chunlin false 120.0 42.480003 100.0 22.480003
+ID002 1, 
+
+
+Purchase:
+chunlin false 566.0 173.43997 5000.0 4607.44
+ID002 4, ID005 2, ID004 2, 
+
+
+Purchase:
+chunlin false 726.4 231.68 5000.0 4505.28
+ID002 6, ID001 2, ID003 2, 
+
+
+Purchase:
+chunlin false 404.4 109.67999 5000.0 4705.28
+ID002 2, ID003 2, ID010 8, 
+
+
+Purchase:
+chunlin true 2445.6 920.5537 10000.0 8474.953
+ID002 12, ID003 12, ID006 12, ID004 12, ID008 12, 
+
+
+Purchase:
+yangjun true 596.0 199.62201 2000.0 1603.6221
+ID001 10, ID005 10, ID006 10, ID010 10, 
+
+
+Purchase:
+null false 1800.0 720.0 0.0 -1080.0
+ID009 6, 
+
+
+Purchase:
+null false 1800.0 720.0 0.0 -1080.0
+ID009 6, 
+
+
+Purchase:
+null false 1800.0 720.0 0.0 -1080.0
+ID009 6, 
+
+
+Purchase:
+null false 1800.0 720.0 0.0 -1080.0
+ID009 6, 
+
+
+Purchase:
+null false 1800.0 720.0 0.0 -1080.0
+ID009 6, 
+
+
+Purchase:
+null false 1800.0 720.0 0.0 -1080.0
+ID009 6, 
+
+
+Purchase:
+null false 1800.0 720.0 0.0 -1080.0
+ID009 6, 
+
+
+Purchase:
+null false 1800.0 720.0 0.0 -1080.0
+ID009 6, 
+
+
+Purchase:
+null false 1800.0 720.0 0.0 -1080.0
+ID009 6, 
+
+
+
+
+
+
+
+
+Purchase:
+null false 1800.0 720.0 0.0 -1080.0
+ID009 6, 
+
+
+Purchase:
+chunlin false 776.0 233.79999 600.0 57.799988
+ID002 5, ID003 5, ID005 5, 
+
+
+Purchase:
+chunlin false 500.0 100.0 560.0 160.0
+ID001 500, 
+
+
+Purchase:
+chunlin false 336.0 75.120026 600.0 339.12003
+ID001 6, ID005 6, ID008 2, 
+
+
+Purchase:
+chunlin true 31.2 4.524002 600.0 573.324
+ID006 2, ID004 2, 
+
+
+
+
+Purchase:
+null false 1800.0 720.0 0.0 -1080.0
+ID009 6, 
+
+
+Purchase:
+null false 1800.0 720.0 0.0 -1080.0
+ID009 6, 
+
+
+
+
+Purchase:
+null false 1800.0 720.0 0.0 -1080.0
+ID009 6, 
+
+
+
+
+Purchase:
+null false 1800.0 720.0 0.0 -1080.0
+ID009 6, 
+
+
+Purchase:
+null false 1800.0 720.0 0.0 -1080.0
+ID009 6, 
+
+
+
+
+Purchase:
+null false 1800.0 720.0 0.0 -1080.0
+ID009 6, 
+
+
+
+
+Purchase:
+chunlin true 786.0 248.37604 2000.0 1462.376
+ID001 6, ID006 50, ID004 50, 
+
+
+Purchase:
+chunlin false 600.0 240.0 3000.0 2640.0
+ID009 2, 
+
+
+Purchase:
+chunlin false 121.0 24.199997 100.0 3.199997
+ID001 121, 
+
+
+Purchase:
+chunlin false 3986.0 797.19995 5020.0 1831.2
+ID001 6, ID004 2, ID008 60, 
+
+
+Purchase:
+testCase!! false 1800.0 720.0 0.0 -1080.0
+ID009 6, 
+
+
+
+
+Purchase:
+testCase!! false 1800.0 720.0 100000.0 98920.0
+ID009 6, 
+
+
+
+
+Purchase:
+chunlin false 382.8 76.56 10000.0 9693.76
+ID001 58, ID006 58, 
+
+
